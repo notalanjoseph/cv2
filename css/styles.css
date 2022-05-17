@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.pic{
+  border-radius: 100%;
+}
+
+hr {
+  /*background-color: #CCF3EE;*/
+  background-color: black;
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: thick;
+  width: 10%;
+}
+
+img {
+  height: 160px;
+}
+
+h1 {
+  color: teal;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+h3 {
+  color: gold;
+  font-family:cursive;
+}
